@@ -88,7 +88,7 @@ export default {
     state.topicMess = saveTopic
   },
 
-  [IS_HADMESS](state, {hadMess}) {
-    state.hadMess = hadMess
+  [IS_HADMESS](state, {result}) {
+    state.hadMess = result
   }
 }
