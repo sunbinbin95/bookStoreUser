@@ -26,26 +26,26 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 <p align="center">
-  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/1.png" width="200" height="356">
-  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/2.png" width="200" height="356">
+  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/1.png" width="250" height="445">
+  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/2.png" width="250" height="445">
 </p>
-<p>
-  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/3.png" style="width:300px">
-  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/4.png" style="width:300px">
+<p align="center">
+  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/3.png" width="250" height="445">
+  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/4.png" width="250" height="445">
 </p>
-<p>
-  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/5.png" style="width:300px">
-  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/6.png" style="width:300px">
+<p align="center">
+  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/5.png" width="250" height="445">
+  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/6.png" width="250" height="445">
 </p>
-<p>
-  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/7.png" style="width:300px">
-  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/8.png" style="width:300px">
+<p align="center">
+  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/7.png" width="250" height="445">
+  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/8.png" width="250" height="445">
 </p>
-<p>
-  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/9.png" style="width:300px">
-  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/10.png" style="width:300px">
+<p align="center">
+  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/9.png" width="250" height="445">
+  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/10.png" width="250" height="445">
 </p>
-<p>
-  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/11.png" style="width:300px">
-  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/12.png" style="width:300px">
+<p align="center">
+  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/11.png" width="250" height="445">
+  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/12.png" width="250" height="445">
 </p>
