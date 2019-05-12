@@ -25,27 +25,27 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-<p align="center">
-  <img src="https://s2.ax1x.com/2019/05/12/Eh5LYF.png" alt="Eh5LYF.png" border="0">
-  <img src="https://s2.ax1x.com/2019/05/12/Eh5qFU.png" alt="Eh5qFU.png" border="0">
+<p align="center" letter-space="20">
+  <img src="https://s2.ax1x.com/2019/05/12/Eh5LYF.png" alt="Eh5LYF.png" border="0" width="250" height="445">
+  <img src="https://s2.ax1x.com/2019/05/12/Eh5qFU.png" alt="Eh5qFU.png" border="0" width="250" height="445">
 </p>
 <p align="center">
-  <img src="https://s2.ax1x.com/2019/05/12/EhIltS.png" alt="EhIltS.png" border="0">
-  <img src="https://s2.ax1x.com/2019/05/12/EhI8pQ.png" alt="EhI8pQ.png" border="0">
+  <img src="https://s2.ax1x.com/2019/05/12/EhIltS.png" alt="EhIltS.png" border="0" width="250" height="445">
+  <img src="https://s2.ax1x.com/2019/05/12/EhI8pQ.png" alt="EhI8pQ.png" border="0" width="250" height="445">
 </p>
 <p align="center">
-  <img src="https://s2.ax1x.com/2019/05/12/EhIZ6A.png" alt="EhIZ6A.png" border="0">
-  <img src="https://s2.ax1x.com/2019/05/12/EhIKTf.png" alt="EhIKTf.png" border="0">
+  <img src="https://s2.ax1x.com/2019/05/12/EhIZ6A.png" alt="EhIZ6A.png" border="0" width="250" height="445">
+  <img src="https://s2.ax1x.com/2019/05/12/EhIKTf.png" alt="EhIKTf.png" border="0" width="250" height="445">
 </p>
 <p align="center">
-  <img src="https://s2.ax1x.com/2019/05/12/EhIVld.png" alt="EhIVld.png" border="0">
-  <img src="https://s2.ax1x.com/2019/05/12/EhInmt.png" alt="EhInmt.png" border="0">
+  <img src="https://s2.ax1x.com/2019/05/12/EhIVld.png" alt="EhIVld.png" border="0" width="250" height="445">
+  <img src="https://s2.ax1x.com/2019/05/12/EhInmt.png" alt="EhInmt.png" border="0" width="250" height="445">
 </p>
 <p align="center">
-  <img src="https://s2.ax1x.com/2019/05/12/EhIeOI.png" alt="EhIeOI.png" border="0">
-  <img src="https://s2.ax1x.com/2019/05/12/EhIu0P.png" alt="EhIu0P.png" border="0">
+  <img src="https://s2.ax1x.com/2019/05/12/EhIeOI.png" alt="EhIeOI.png" border="0" width="250" height="445">
+  <img src="https://s2.ax1x.com/2019/05/12/EhIu0P.png" alt="EhIu0P.png" border="0" width="250" height="445"> 
 </p>
 <p align="center">
-  <img src="https://s2.ax1x.com/2019/05/12/EhI1fg.png" alt="EhI1fg.png" border="0">
-  <img src="https://s2.ax1x.com/2019/05/12/EhIQk8.png" alt="EhIQk8.png" border="0">
+  <img src="https://s2.ax1x.com/2019/05/12/EhI1fg.png" alt="EhI1fg.png" border="0" width="250" height="445">
+  <img src="https://s2.ax1x.com/2019/05/12/EhIQk8.png" alt="EhIQk8.png" border="0" width="250" height="445">
 </p>
