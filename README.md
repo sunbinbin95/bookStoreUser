@@ -26,7 +26,7 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 <p>
-  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/1.png" style="width:300px">
+  <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/1.png" style="max-width:200px;max-height:400px">
   <img src="http://pqdg4ilq2.bkt.clouddn.com/image/bookstore/2.png" style="width:300px">
 </p>
 <p>
