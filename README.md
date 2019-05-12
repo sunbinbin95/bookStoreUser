@@ -25,7 +25,7 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-<p align="center" letter-space="20">
+<p align="center">
   <img src="https://s2.ax1x.com/2019/05/12/Eh5LYF.png" alt="Eh5LYF.png" border="0" width="250" height="445">
   <img src="https://s2.ax1x.com/2019/05/12/Eh5qFU.png" alt="Eh5qFU.png" border="0" width="250" height="445">
 </p>
